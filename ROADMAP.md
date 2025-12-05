@@ -56,6 +56,7 @@ from **Dec 2025 → March 2026**.
 ---
 
 # 📁 REPOSITORY STRUCTURE
+```
 /mamba-engineering
 /databricks-medallion-pipeline
 /dbt-sales-analytics
@@ -67,7 +68,7 @@ from **Dec 2025 → March 2026**.
 /architecture-diagrams
 ROADMAP.md
 README.md
-
+```
 
 ---
 
